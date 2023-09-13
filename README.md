@@ -66,17 +66,33 @@ assisting cyber security experts
 54. [Audioalter](https://audioalter.com/) - Your online audio toolkit. A collection of easy-to-use web tools for all your audio files
 55. [Diffchecker](https://www.diffchecker.com/) - It will compare text to find the difference between two text files. Just paste your files and click Find Difference
 56. [The ALgorithms](https://the-algorithms.com/) - Welcome to GitHub's largest open-source algorithm library
-57. []() -
-58. []() -
-59. []() -
-60. []() -
-61. []() -
-62. []() -
-63. []() -
-64. []() -
-65. []() -
-66. []() -
-67. []() -
-68. []() -
-69. []() -
-70. []() - 
+57. [TrackerControl](https://f-droid.org/en/packages/net.kollnig.missioncontrol.fdroid/) - It allows users to monitor and control the widespread, ongoing, hidden data collection in mobile apps about user behaviour ('tracking').
+58. [Honeypot Or Not?](https://honeyscore.shodan.io/) - Enter an IP to check whether it is a honeypot or a real control system.
+59. [AutoDraw](https://www.autodraw.com/) - Fast drawing for everyone. AutoDraw pairs machine learning with drawings from talented artists to help you draw stuff fast.
+60. [Ray.so](https://ray.so/) - Turn your code into beautiful images. Choose from a range of syntax colors, hide or show the background, and toggle between a dark and light window.
+61. [Temporary URL](https://www.temporary-url.com/) - Create temporary links (and QR codes !) that expire when you want to.
+62. [Privacy Tools](https://www.privacytools.io/) - It provides services, tools and knowledge to protect your privacy against global mass surveillance.
+63. [Wordtune](https://www.wordtune.com/) - It helps you rephrase your sentences to say exactly what you mean through clear, compelling, and authentic writing.
+64. [Web Formatter](https://webformatter.com/) - Format your HTML, XML, CSS, JavaScript, PHP and JSON code in a few easy steps.
+65. [HTML email](https://htmlemail.io/inline/) - Built for email developers, designers and marketers. Use our HTML editor to inline your CSS and send test HTML emails to your inbox.
+66. [12ft](https://12ft.io/) - Helps in bypassing paywalls of many websites for reading articles.
+67. [Toffeeshare](https://toffeeshare.com/) -  Share files privately and fast, without size limit with ToffeeShare. Share your files privately, fast and without registration. Peer to peer. End to end encrypted. No file size limit.
+68. [MetaData 2 Go](https://www.metadata2go.com/) - This online metadata viewer will show you all hidden metadata info.
+69. [ViMusic](https://github.com/vfsfitvnm/ViMusic) - An Android application for streaming music from YouTube Music. no-ads/free
+70. [Blackbox AI](https://www.useblackbox.io/search) - Turn any Question into {Code}.
+71. [Magic eraser](https://magicstudio.com/magiceraser/) - Use AI to remove unwanted things from images in seconds.
+72. [Unscreen](https://www.unscreen.com/) - Remove the background of any video.
+73. [WatermarkRemover](https://www.watermarkremover.io/) - Remove watermarks from your images using our AI technology.
+74. [LostMyPass.com](https://www.lostmypass.com/) - It is the fastest and easy-to-use cloud-based password recovery service. We recover lost passwords for PDF and MS Office documents, as well as RAR, Zip, 7z archives, and other file types.
+75. [Aperi Solve](https://www.aperisolve.com/) - It an online platform which performs layer analysis on image. The platform also uses zsteg, steghide, outguess, exiftool, binwalk, foremost and strings for deeper steganography analysis. The platform supports the following images format: .png, .jpg, .gif, .bmp, .jpeg, .jfif, .jpe, .tiff...
+76. [Google Public DNS](https://dns.google/) - You can easily query google DNS with ip/domain.
+77. [Free Meta Tag Generator](https://www.seoptimer.com/meta-tag-generator) - The meta tag generator will create description, keyword and other important meta tags for you with provided content.
+78. [Free Proxy List](https://free-proxy-list.net/) - Free proxies that are just checked and updated every 10 minutes
+79. [Wormhole](https://wormhole.app/) - It lets you share files with end-to-end encryption and a link that automatically expires.
+80. [Exif Info](https://exifinfo.org/) - Online tool to analyze and display the meta-data in images and other media files.
+81. [SearchCode](https://searchcode.com/) - It is a free source code search engine. Code snippets and open source (free software) repositories are indexed and searchable.
+82. [Cutour.Pro](https://www.cutout.pro/) - AI-powered automated visual design platform
+83. [TinyWoW](https://tinywow.com/tools) - Free Tools to Make Everything Simple
+84. [TEXT-TO-SQL](https://www.text2sql.ai/) -  Translate plain English to SQL with AI for free! Build complex SQL queries from your prompts fast!
+
+Many more will be added soon.
