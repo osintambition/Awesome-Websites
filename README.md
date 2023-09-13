@@ -20,16 +20,17 @@ A Collection of some awesome websites to make your life easier and save time.
 9. [AnyRun](https://app.any.run/) - Interactive online 'malware analysis' service for dynamic and static research of most types of threats using any environment.Replaces a set of tools for research.
 10. [DownForEveryoneOrJustMe](https://downforeveryoneorjustme.com/) - This site checks if a website is down for everyone or just you.
 11. [HaveiBeenPwned](https://haveibeenpwned.com/) - Check if your email address is in a data breach
-12. [ThisPersonDoesnotExist](https://thispersondoesnotexist.com/) - Generated face pictures you can use to bypass reverse image search website.
+12. [ThisPersonDoesnotExist](https://thispersondoesnotexist.com/) - Generated face pictures you can use to bypass reverse image search websites.
 13. [CHATCRYPT](https://client.chatcrypt.com/) - Quick group chat maker/ anonymous
 14. [Browserling](https://www.browserling.com/) - Live interactive cross-browser testing... Get a browser and start testing in 5 seconds!
 15. [Wayback Machine](https://web.archive.org/) - Go back in time (Explore more than 500 billion web pages saved over time)
-16. []() - Run & test almost any OS online for free
-17. []() - 
-18. []() - 
-19. []() - 
-20. []() -
-21. []() -
+16. [urlscan.io](https://urlscan.io/) - Intel gathering and data reconnaissance by URL.
+17. [TinyEye](https://tineye.com/) - TinEye Alerts tracks where your images appear online. Reverse image search engine.
+18. [Google Cloud Console](https://console.cloud.google.com) - FREE Linux Server for some days and other Google products and services for free.
+19. [Google Trends](https://trends.google.com/trends/?geo=IN) - Explore what the world is searching
+20. [Online HashCrack](https://www.onlinehashcrack.com/) - Cloud Password Recovery Services
+assisting cyber security experts
+21. [WhitePages](https://www.whitepages.com/) - Find people, contact info & background checks
 22. []() -
 23. []() -
 24. []() -
