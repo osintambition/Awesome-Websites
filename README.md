@@ -31,22 +31,37 @@ A Collection of some awesome websites to make your life easier and save time.
 20. [Online HashCrack](https://www.onlinehashcrack.com/) - Cloud Password Recovery Services
 assisting cyber security experts
 21. [WhitePages](https://www.whitepages.com/) - Find people, contact info & background checks
-22. []() -
-23. []() -
-24. []() -
-25. []() -
-26. []() -
-27. []() -
-28. []() -
-29. []() -
-30. []() -
-31. []() -
-32. []() -
-33. []() -
-34. []() -
-35. []() -
-36. []() -
-37. []() -
-38. []() -
-39. []() -
-40. []() - 
+22. [The Cyber Swiss Army Knife](https://gchq.github.io/CyberChef/) - A web app for encryption, encoding, compression and data analysis
+23. [TinyURL](https://tiny.cc/) - Free URL shortner
+24. [Explainshell.com](https://explainshell.com/) - write down a command-line to see the help text that matches each argument
+25. [Steganographr](https://neatnik.net/steganographr/) - Hide text in plain sight using invisible zero-width characters. It’s digital steganography made simple.
+26. [10 Minute Mail](https://10minemail.com/) - 10 Minute Mail provides temporary, secure, anonymous, free, disposable email address for 10 minutes.
+27. [Random Person Generator](https://www.fakepersongenerator.com/) - the Fake Name Generator is the most advanced name generator on the internet. Generate names, addresses and more absolutely free.
+28. [GIFMaker.me](https://gifmaker.me/) - It allows you to create animated gifs, slideshows, and video animations with music online freely and easily, no registration required.
+29. [Open Source Text Editors](https://github.com/collections/text-editors) - some amazingly awesome open source editors.
+30. [carbon.now.sh](https://carbon.now.sh/) - Create and share beautiful images of your source code. Start typing or drop a file into the text area to get started.
+31. [codepen.io](https://codepen.io/) - It is an amazing web-based ide, explicitly for front-end web dev (html,css and js), they have regular challenges to help sharpen you skills in this field
+32. [A Soft Murmur](https://asoftmurmur.com/) - It is an online background noise generator designed to help you relax, focus, and tune out unpleasant sounds from your environment.
+33. [BugMeNot](https://bugmenot.com/) - Enter a website below to see if the bugmenot community has shared any logins for it...
+34. [Custom Discord Rich Presence Manager](https://github.com/maximmax42/Discord-CustomRP) - Simple custom Rich Presence manager (Playing status) for Discord.
+35. [screenshotmachine](https://www.screenshotmachine.com/) -  Take website screenshot (with screenshot API)
+36. [Anonymousemail.me](https://anonymousemail.me/) - Send anonymous email with attachments
+37. [Reverse Shell Generator](https://www.revshells.com/) - Online Reverse Shell Generator
+38. [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/) - The primary goal of Malpedia is to provide a resource for rapid identification and actionable context when investigating malware.
+39. [Website Downloader](https://www6.waybackmachinedownloader.com/website-downloader-online/) - Clone/Copy/Download whole website
+40. [What CMS](https://whatcms.org/) -Detect What CMS Is This Site Using?
+41. [Cleanup.pictures](https://cleanup.pictures/) - Remove any object, people, text or defects from your pictures
+42. [BuiltWith](https://builtwith.com/) - Find out what websites are Built With
+43. [100L5](https://10015.io/) - All Online Tools in “One Box”
+44. [vocalremover](https://vocalremover.org/) - Separate voice from music out of a song free with powerful AI algorithms
+45. [Checksub](https://download.checksub.com/) - Download and Edit subtitles from Youtube videos
+46. [Devdocs](https://devdocs.io/) - DevDocs combines multiple API documentations in a fast, organized, and searchable interface.
+47. [Profile Pic Maker](https://pfpmaker.com/) - Create an awesome profile picture for free
+48. [Neverinstall](https://neverinstall.com/en-IN) - The fastest way to run desktop apps A powerful platform for accessing desktop applications through the browser. Say goodbye to slow and laggy machines.
+49. [Peppertype](https://www.peppercontent.io/peppertype-ai/) - Your Virtual Content Assistant Generate better content copies in seconds with the power of Artificial Intelligence.
+50. [NoCodeAPI](https://nocodeapi.com/marketplace/) - More than 40+ third-party applications to connect without code and power-up your tools & Software.
+51. []() -
+52. []() -
+53. []() -
+54. []() -
+55. []() - 
