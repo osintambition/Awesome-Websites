@@ -60,8 +60,23 @@ assisting cyber security experts
 48. [Neverinstall](https://neverinstall.com/en-IN) - The fastest way to run desktop apps A powerful platform for accessing desktop applications through the browser. Say goodbye to slow and laggy machines.
 49. [Peppertype](https://www.peppercontent.io/peppertype-ai/) - Your Virtual Content Assistant Generate better content copies in seconds with the power of Artificial Intelligence.
 50. [NoCodeAPI](https://nocodeapi.com/marketplace/) - More than 40+ third-party applications to connect without code and power-up your tools & Software.
-51. []() -
-52. []() -
-53. []() -
-54. []() -
-55. []() - 
+51. [PDF Drive](https://www.pdfdrive.com/) - A search engine for PDF files. As of today, they have 76,449,481 eBooks for you to download for free.
+52. [Jitter](https://jitter.video/) - Creating rich animations is as easy as building animations.
+53. [hacksPlaining](https://www.hacksplaining.com/) - security training for developers
+54. [Audioalter](https://audioalter.com/) - Your online audio toolkit. A collection of easy-to-use web tools for all your audio files
+55. [Diffchecker](https://www.diffchecker.com/) - It will compare text to find the difference between two text files. Just paste your files and click Find Difference
+56. [The ALgorithms](https://the-algorithms.com/) - Welcome to GitHub's largest open-source algorithm library
+57. []() -
+58. []() -
+59. []() -
+60. []() -
+61. []() -
+62. []() -
+63. []() -
+64. []() -
+65. []() -
+66. []() -
+67. []() -
+68. []() -
+69. []() -
+70. []() - 
