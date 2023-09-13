@@ -95,4 +95,22 @@ assisting cyber security experts
 83. [TinyWoW](https://tinywow.com/tools) - Free Tools to Make Everything Simple
 84. [TEXT-TO-SQL](https://www.text2sql.ai/) -  Translate plain English to SQL with AI for free! Build complex SQL queries from your prompts fast!
 
-Many more will be added soon.
+  **Many more will be added soon.**
+
+
+## Contributions
+
+Contributions are always welcome!
+
+You can contact us any time on any of our social media platforms for any kind of suggestions and Contributions.
+
+Official Mail - osintambition@gmail.com
+
+GitHub - [https://github.com/osintambition](https://github.com/osintambition)
+
+Twitter - [https://twitter.com/osintambition](https://twitter.com/osintambition)
+
+Telegram - [https://t.me/osintambition](https://t.me/osintambition)
+
+
+Developed with ❤️ in India 🇮🇳 
