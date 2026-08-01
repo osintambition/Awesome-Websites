@@ -94,6 +94,7 @@ assisting cyber security experts
 82. [Cutour.Pro](https://www.cutout.pro/) - AI-powered automated visual design platform
 83. [TinyWoW](https://tinywow.com/tools) - Free Tools to Make Everything Simple
 84. [TEXT-TO-SQL](https://www.text2sql.ai/) -  Translate plain English to SQL with AI for free! Build complex SQL queries from your prompts fast!
+85. [Concrete Estimator Hub](https://concreteestimatorhub.com/) - Free browser-based concrete calculators for slabs, bags, ready-mix decisions, project cost checks, and quote review.
 
   **Many more will be added soon.**
 
