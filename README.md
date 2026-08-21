@@ -94,6 +94,13 @@ assisting cyber security experts
 82. [Cutour.Pro](https://www.cutout.pro/) - AI-powered automated visual design platform
 83. [TinyWoW](https://tinywow.com/tools) - Free Tools to Make Everything Simple
 84. [TEXT-TO-SQL](https://www.text2sql.ai/) -  Translate plain English to SQL with AI for free! Build complex SQL queries from your prompts fast!
+85. [Codex Theme Builder](https://codextheme.tools) - Free browser CSS theme builder for OpenAI Codex CLI. No signup.
+86. [SkyCOTL Tools](https://skycotl.tools) - Free companion tools for Sky: Children of the Light (candles, seasons, quests).
+87. [Pressure Washer Fix](https://pressurewasherfix.com) - Free pressure-washer troubleshooting guides and parts lookup.
+88. [Lawn Mowing Cost Calculator](https://lawnmowingcalculator.com) - Free calculator for lawn mowing cost estimates by area, rate, and extras.
+89. [WattsCalc](https://wattscalc.com) - Free wattage and electricity cost calculator for appliances.
+90. [Embroidery Pricing Calculator](https://embroiderypricingcalculator.com) - Free stitch-count and embroidery pricing calculator.
+91. [Image to Crochet Pattern](https://imagetocrochetpattern.com) - Free browser tool that converts a photo into a crochet pattern.
 
   **Many more will be added soon.**
 
