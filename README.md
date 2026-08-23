@@ -94,6 +94,7 @@ assisting cyber security experts
 82. [Cutour.Pro](https://www.cutout.pro/) - AI-powered automated visual design platform
 83. [TinyWoW](https://tinywow.com/tools) - Free Tools to Make Everything Simple
 84. [TEXT-TO-SQL](https://www.text2sql.ai/) -  Translate plain English to SQL with AI for free! Build complex SQL queries from your prompts fast!
+85. [WorkroomCalc](https://workroomcalc.co.uk/) - Free in-browser Roman blind calculator for finished size, fabric and lining cuts, rods, rings, and cord. No signup.
 
   **Many more will be added soon.**
 
