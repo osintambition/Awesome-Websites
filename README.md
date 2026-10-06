@@ -94,6 +94,7 @@ assisting cyber security experts
 82. [Cutour.Pro](https://www.cutout.pro/) - AI-powered automated visual design platform
 83. [TinyWoW](https://tinywow.com/tools) - Free Tools to Make Everything Simple
 84. [TEXT-TO-SQL](https://www.text2sql.ai/) -  Translate plain English to SQL with AI for free! Build complex SQL queries from your prompts fast!
+85. [KupitSledovatelov.sk growth calculator](https://kupitsledovatelov.sk/tools/follower-growth) - Free Slovak-language utility to calculate required net follower growth per day and week from manually entered counts and days. No account or profile lookup.
 
   **Many more will be added soon.**
 
