@@ -104,6 +104,7 @@ assisting cyber security experts
 91. [AI Lab](https://ailab.packscena.com/) - Chinese browser utility hub with basic image compression and local text tools; advanced compression requires sign-in and points.
 92. [ResumePlot](https://resumeplot.com/) - Bilingual local resume editing with PDF and JSON export; optional AI, cloud saving and sharing require an account.
 93. [DishVivid](https://dishvivid.com/) - Food-photo editor with local manual lighting, color and crop adjustments; optional AI edits require sign-in and an available allowance.
+94. [NEON DUO — Audio/video synchronization checklist](https://a2oliteneon.xyz/guides/audio-out-of-sync-video) - Public practical reading guide to constant offset, gradual drift, playback checks and exported-file verification; service generation and purchases are closed. Operator-affiliated, AI-assisted reference.
   **Many more will be added soon.**
 
 
