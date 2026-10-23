@@ -105,6 +105,7 @@ assisting cyber security experts
 92. [ResumePlot](https://resumeplot.com/) - Bilingual local resume editing with PDF and JSON export; optional AI, cloud saving and sharing require an account.
 93. [DishVivid](https://dishvivid.com/) - Food-photo editor with local manual lighting, color and crop adjustments; optional AI edits require sign-in and an available allowance.
 94. [NEON DUO — Audio/video synchronization checklist](https://a2oliteneon.xyz/guides/audio-out-of-sync-video) - Public practical reading guide to constant offset, gradual drift, playback checks and exported-file verification; service generation and purchases are closed. Operator-affiliated, AI-assisted reference.
+95. [Paper Texture](https://paper-texture.com/paper-texture-overlay/) - Free guest browser editor for layering six AI-generated paper surfaces over an image; surfaces are licensed for finished designs, not CC0 or standalone redistribution. Operator-affiliated, AI-assisted suggestion.
   **Many more will be added soon.**
 
 
