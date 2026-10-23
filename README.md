@@ -95,6 +95,17 @@ assisting cyber security experts
 83. [TinyWoW](https://tinywow.com/tools) - Free Tools to Make Everything Simple
 84. [TEXT-TO-SQL](https://www.text2sql.ai/) -  Translate plain English to SQL with AI for free! Build complex SQL queries from your prompts fast!
 
+85. [Ajun Industry](https://ajun-industry.packscena.com/) - Chinese-language industry-chain reference library with illustrated explainers and company relationships.
+86. [LogoMovo](https://logomovo.com/) - AI logo studio with public design references; generation requires sign-in and payment.
+87. [LookScene](https://lookscene.packscena.com/) - AI hairstyle, outfit and scene previews; the current trial requires invitation, sign-in and credits.
+88. [NailMoodLab](https://nailmoodlab.com/) - Nail-design references and AI style previews; generation requires sign-in and usage credits.
+89. [PackScena](https://packscena.com/) - AI product-photo backgrounds and lifestyle scenes; the current trial requires invitation, sign-in and an allowance.
+90. [SubAtlas](https://subatlas.packscena.com/) - Subscription-tool offer catalog with comparisons, help guides and provider-specific access conditions.
+91. [AI Lab](https://ailab.packscena.com/) - Chinese browser utility hub with basic image compression and local text tools; advanced compression requires sign-in and points.
+92. [ResumePlot](https://resumeplot.com/) - Bilingual local resume editing with PDF and JSON export; optional AI, cloud saving and sharing require an account.
+93. [DishVivid](https://dishvivid.com/) - Food-photo editor with local manual lighting, color and crop adjustments; optional AI edits require sign-in and an available allowance.
+94. [NEON DUO — Audio/video synchronization checklist](https://a2oliteneon.xyz/guides/audio-out-of-sync-video) - Public practical reading guide to constant offset, gradual drift, playback checks and exported-file verification; service generation and purchases are closed. Operator-affiliated, AI-assisted reference.
+95. [Paper Texture](https://paper-texture.com/paper-texture-overlay/) - Free guest browser editor for layering six AI-generated paper surfaces over an image; surfaces are licensed for finished designs, not CC0 or standalone redistribution. Operator-affiliated, AI-assisted suggestion.
   **Many more will be added soon.**
 
 
