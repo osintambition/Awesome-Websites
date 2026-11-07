@@ -94,6 +94,7 @@ assisting cyber security experts
 82. [Cutour.Pro](https://www.cutout.pro/) - AI-powered automated visual design platform
 83. [TinyWoW](https://tinywow.com/tools) - Free Tools to Make Everything Simple
 84. [TEXT-TO-SQL](https://www.text2sql.ai/) -  Translate plain English to SQL with AI for free! Build complex SQL queries from your prompts fast!
+85. [ASCII Images](https://ascii-images.com/) - Free browser tools for image-to-ASCII conversion, FIGlet banners, and plain-text diagrams; no account required.
 
   **Many more will be added soon.**
 
