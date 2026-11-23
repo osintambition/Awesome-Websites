@@ -1,6 +1,8 @@
 # Awesome-Websites
 A Collection of some awesome websites to make your life easier and save time.
 
+Looking for OSINT tools? Browse the free directory at [osinttools.io](https://osinttools.io).
+
 ## Authors
 
 - [@osintambition](https://github.com/osintambition)
